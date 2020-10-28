@@ -1,4 +1,4 @@
-# Este es el github de **ANTONIO ÁVILA DELGADO** de 1º de ASIR
+# Github de **ANTONIO ÁVILA DELGADO** de 1º de ASIR
 Este proyecto consta de 3 ejercicios, incluidos en la carpeta **src**:
 * **Ejercicio001**: donde se realizan los ejercicios de la página https://docs.mongodb.com/manual/tutorial/query-documents/
 * **Ejercicio002**: donde se demuestra conocimientos de otros operadores para hacer consultas.
